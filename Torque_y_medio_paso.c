@@ -1,14 +1,3 @@
-/* 
-Universidad Autonoma de Chihuahua
-Facultad de Medicina y Ciencias Biomédicas
-Ingeniería Biomédica
-Grupo: 5IB1
-No de práctica: 8
-Nombre de la práctica: Torque y medio paso
-Equipo: 6
-Docente: Ing. Juan Carlos Osorio Diaz 
-*/
-
 #include <18F2550.h>
 #device ADC=10
 #use delay (clock=8M)
