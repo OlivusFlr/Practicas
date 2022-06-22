@@ -1,13 +1,3 @@
-/* 
-Universidad Autonoma de Chihuahua
-Facultad de Medicina y Ciencias Biomédicas
-Ingeniería Biomédica
-Grupo: 5IB1
-No de práctica: 10
-Nombre de la práctica: Control de pantalla LCD
-Equipo: 6
-Docente: Ing. Juan Carlos Osorio Diaz 
-*/
 #include <18f2550.h>
 #fuses INTRC, NOMCLR, NOBROWNOUT
 #use delay (internal = 8M)
