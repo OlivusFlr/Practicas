@@ -1,13 +1,3 @@
-/* 
-Universidad Autonoma de Chihuahua
-Facultad de Medicina y Ciencias Biomédicas
-Ingeniería Biomédica
-Grupo: 5IB1
-No de práctica: 12
-Nombre de la práctica: Motor corriente directa
-Equipo: 6
-Docente: Ing. Juan Carlos Osorio Diaz 
-*/
 #include <18f2550.h>
 #device ADC=10
 #fuses INTRC, NOMCLR, NOBROWNOUT
